@@ -5,6 +5,7 @@
 ### 출처
 https://seo.tbwakorea.com/blog/what-is-semantic-tag/
 
+![Semantic Tag 예시](https://seo.tbwakorea.com/wp-content/uploads/2023/09/%EC%8B%9C%EB%A7%A8%ED%8B%B1-%ED%83%9C%EA%B7%B8_html-1536x864.png)
 - 포함된 콘텐츠의 특정 의미를 정의하고 목적을 갖는 태그
 - 태그에 의미를 부여함으로써 웹사이트의 구조를 파악하기 쉽도록 도와주기 위함
 
